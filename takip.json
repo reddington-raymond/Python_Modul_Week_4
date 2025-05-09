@@ -1,0 +1,24 @@
+[
+    {
+        "uye_ID": "1",
+        "Barkod": "9786053114772",
+        "Kitap_Adi": "S\u00c3\u00bct Lekesi",
+        "Yazar": "Esra Ezmeci",
+        "Yayinevi": "Destek Yay\u00c4\u00b1nlar\u00c4\u00b1",
+        "Dil": "T\u00c3\u00bcrk\u00c3\u00a7e",
+        "Fiyat": 20.4,
+        "Odunc_Tarihi": "2025-05-08 18:41:36",
+        "Iade_Tarihi": "2025-05-22 18:41:36"
+    },
+    {
+        "uye_ID": "1",
+        "Barkod": "9786053114772",
+        "Kitap_Adi": "S\u00c3\u00bct Lekesi",
+        "Yazar": "Esra Ezmeci",
+        "Yayinevi": "Destek Yay\u00c4\u00b1nlar\u00c4\u00b1",
+        "Dil": "T\u00c3\u00bcrk\u00c3\u00a7e",
+        "Fiyat": 20.4,
+        "Odunc_Tarihi": "2025-05-08 18:41:36",
+        "Iade_Tarihi": "2025-05-22 18:41:36"
+    }
+]

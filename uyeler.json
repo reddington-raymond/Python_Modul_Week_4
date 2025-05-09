@@ -1,0 +1,26 @@
+[
+    {
+        "uye_ID": 1,
+        "uye_adi": "ilkay",
+        "uye_telefon": "5487",
+        "uye_adres": "kiisa"
+    },
+    {
+        "uye_ID": 2,
+        "uye_adi": "ikk",
+        "uye_telefon": "2546546",
+        "uye_adres": "liss"
+    },
+    {
+        "uye_ID": 4,
+        "uye_adi": "yunus",
+        "uye_telefon": "0687456987",
+        "uye_adres": "groningende uzak bir kose"
+    },
+    {
+        "uye_ID": 5,
+        "uye_adi": "selin",
+        "uye_telefon": "0654789654",
+        "uye_adres": "zoetemeeeeeer"
+    }
+]
